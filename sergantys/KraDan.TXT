@@ -1,0 +1,16 @@
+Trace	Label	Lat.(ms)	Amp.(uV)	Area (V/s)	
+Fz-RF	P1	 34,77	 -1,67		
+Fz-RF	N1	 73,83	 -15,2		
+Fz-RF	P2	 179,30	 3,32		
+Fz-RF	N2	 206,64	 -4,27		
+Fz-RF	P3	 327,73	 12,7		
+Cz-RF	P1	 36,72	 -0,57		
+Cz-RF	N1	 75,78	 -14,5		
+Cz-RF	P2	 179,30	 4,26		
+Cz-RF	N2	 204,69	 -1,47		
+Cz-RF	P3	 329,69	 15,9		
+Pz-RF	P1	 25,00	 -2,45		
+Pz-RF	N1	 69,92	 -11,0		
+Pz-RF	N2	 208,59	 -0,39		
+Pz-RF	P2	 179,30	 4,25		
+Pz-RF	P3	 333,59	 14,9		
